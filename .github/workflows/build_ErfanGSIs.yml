@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.meizu.com/Firmware/Flyme/meizu17/9.0.0.0/cn/20210602181903/e7f6dfcf/update.zip
+  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu17/9.0.0.0/cn/20210602181903/e7f6dfcf/update.zip
   ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
