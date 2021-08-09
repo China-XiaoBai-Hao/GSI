@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://q5rxgdf7.v1d.szbdyd.com:9305/download.meizu.com/Firmware/Flyme/meizu17_Pro/9.0.0.0/cn/20210602181843/cb7ef508/update.zip?xy_rid=96vMGD4_3Dhv5X
+  ROM_URL: https://q5rxgdf7.v1d.szbdyd.com:9305/download.meizu.com/Firmware/Flyme/meizu17_Pro/9.0.0.0/cn/20210602181843/cb7ef508/update.zip
   ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
